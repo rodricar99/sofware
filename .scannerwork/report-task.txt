@@ -1,0 +1,7 @@
+organization=rodricar99
+projectKey=rodricar99_sofware
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29375
+dashboardUrl=https://sonarcloud.io/dashboard?id=rodricar99_sofware
+ceTaskId=AYEdIjuNbinnAi3dwIa3
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYEdIjuNbinnAi3dwIa3
